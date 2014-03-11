@@ -6,3 +6,4 @@ bookmarks
 * [Webscraping with Linux Shell Tools](http://www.joyofdata.de/blog/using-linux-shell-web-scraping/)
 * [Python Web Scraping](http://jakeaustwick.me/python-web-scraping-resource/)
 * [pyQuery for Scraping](http://pythonhosted.org//pyquery/scrap.html)
+* [Minimum on Unicode](http://www.joelonsoftware.com/articles/Unicode.html)
