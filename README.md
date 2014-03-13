@@ -7,3 +7,4 @@ bookmarks
 * [Python Web Scraping](http://jakeaustwick.me/python-web-scraping-resource/)
 * [pyQuery for Scraping](http://pythonhosted.org//pyquery/scrap.html)
 * [Minimum on Unicode](http://www.joelonsoftware.com/articles/Unicode.html)
+* [Kalkuliere idealen CPC für Kampagnen](http://blog.ezliu.com/how-to-bid-for-cpc-campaigns-aka-stop-doing-adwords-wrong/)
