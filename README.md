@@ -9,3 +9,4 @@ bookmarks
 * [Minimum on Unicode](http://www.joelonsoftware.com/articles/Unicode.html)
 * [Kalkuliere idealen CPC für Kampagnen](http://blog.ezliu.com/how-to-bid-for-cpc-campaigns-aka-stop-doing-adwords-wrong/)
 * [EWS: Die Vorstufe zum Euro und das Problem mit unserer Währung](https://www.ndr.de/info/audio195709_podcastID-podcast3010.html)
+* [15 Must-Have-GA-Profile-Filters](http://www.serp-eye.com/15-must-have-google-analytics-filter/)
