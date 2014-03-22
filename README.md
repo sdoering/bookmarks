@@ -13,3 +13,7 @@ bookmarks
 * [Interesting Topic Modelling on journalism](http://curve.carleton.ca/system/files/theses/27484.pdf)
 * [Tutorial on Topic Modelling in Mallet](http://radimrehurek.com/2014/03/tutorial-on-mallet-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=tutorial-on-mallet-in-python)
 * [http://programminghistorian.org/lessons/topic-modeling-and-mallet](Getting Started with Topic Modeling and MALLET)
+* [Nutzpflanzenvielfalt e.v. Saatgutliste](http://nutzpflanzenvielfalt.de/saatgutliste-2013)
+* [Widerstand/Opposition in der DDR](http://www.jugendopposition.de/index.php?id=2)
+* [Stasiakten Behörde - Musterakten](http://www.bstu.bund.de/DE/Wissen/Musterakten/_node.html)
+* 
