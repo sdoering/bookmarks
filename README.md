@@ -11,5 +11,5 @@ bookmarks
 * [EWS: Die Vorstufe zum Euro und das Problem mit unserer Währung](https://www.ndr.de/info/audio195709_podcastID-podcast3010.html)
 * [15 Must-Have-GA-Profile-Filters](http://www.serp-eye.com/15-must-have-google-analytics-filter/)
 * [Interesting Topic Modelling on journalism](http://curve.carleton.ca/system/files/theses/27484.pdf)
-* [TUtorial on Topic MOdelling in Mallet](http://radimrehurek.com/2014/03/tutorial-on-mallet-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=tutorial-on-mallet-in-python)
+* [Tutorial on Topic Modelling in Mallet](http://radimrehurek.com/2014/03/tutorial-on-mallet-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=tutorial-on-mallet-in-python)
 * [http://programminghistorian.org/lessons/topic-modeling-and-mallet](Getting Started with Topic Modeling and MALLET)
