@@ -1,0 +1,7 @@
+Fun into .bashrc for Aprils Fool Day:
+
+if [ "$(date +%m%d)" = "0401" ]; then
+ echo 'Microsoft Windows [Version 6.1.7601]'
+ echo 'Copyright (c) 2009 Microsoft Corporation. All rights reserved.'
+ PS1='C:\\\Users\\\\$USER\\\w>'
+fi
