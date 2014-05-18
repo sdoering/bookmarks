@@ -16,4 +16,5 @@ bookmarks
 * [Nutzpflanzenvielfalt e.v. Saatgutliste](http://nutzpflanzenvielfalt.de/saatgutliste-2013)
 * [Widerstand/Opposition in der DDR](http://www.jugendopposition.de/index.php?id=2)
 * [Stasiakten Behörde - Musterakten](http://www.bstu.bund.de/DE/Wissen/Musterakten/_node.html)
+* [12 Free Datamining eBooks](http://christonard.com/12-free-data-mining-books/)
 * 
